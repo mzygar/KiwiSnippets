@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>kspec</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>#import "Kiwi.h"
+#impor "&lt;#class#&gt;.h"
+SPEC_BEGIN(&lt;#class#&gt;Spec)
+
+describe(@"&lt;#description#&gt;", ^{
+
+});
+
+SPEC_END</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>CB5533E9-F9B7-453B-BA21-E2CAD47A9AEC</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Creates spec template</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Kiwi Spec</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
