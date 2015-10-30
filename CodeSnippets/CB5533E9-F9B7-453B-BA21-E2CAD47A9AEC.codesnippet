@@ -10,7 +10,7 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>#import "Kiwi.h"
-#impor "&lt;#class#&gt;.h"
+#import "&lt;#class#&gt;.h"
 SPEC_BEGIN(&lt;#class#&gt;Spec)
 
 describe(@"&lt;#description#&gt;", ^{
